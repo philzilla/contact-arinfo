@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="13.2 17.8 13.2 11 12 11 12 19 20 19 20 17.8"></polygon>
+    </defs>
+    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03---Fiche-de-bien" transform="translate(-1323.000000, -208.000000)">
+            <g id="Section-1---Breadcrumb" transform="translate(0.000000, 200.000000)">
+                <g id="right" transform="translate(1091.000000, 0.000000)">
+                    <g id="Group-7" transform="translate(219.000000, 0.000000)">
+                        <g id="Combined-Shape-Copy-3" transform="translate(16.000000, 15.000000) rotate(-135.000000) translate(-16.000000, -15.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <path stroke="#FFFFFF" stroke-width="0.9016" d="M13.6508,17.3492 L20.4508,17.3492 L20.4508,19.4508 L11.5492,19.4508 L11.5492,10.5492 L13.6508,10.5492 L13.6508,17.3492 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

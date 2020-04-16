@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /*.css$
+Allow: /*.js$
+Disallow: ?id=*
+Disallow: ?page=*
+Disallow: ?language=*
+Disallow: ?target=*
+Disallow: ?type=*
+Disallow: ?agency=*
+Disallow: ?agent=*
+Disallow: ?city=*
+Disallow: ?dept=*

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>checkbox/checked copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="21" height="21" rx="3"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rejoignez-nous/form-step3-b" transform="translate(-101.000000, -494.000000)">
+            <g id="step-3">
+                <g id="Group-13" transform="translate(98.000000, 168.000000)">
+                    <g id="checkbox/checked" transform="translate(3.000000, 326.000000)">
+                        <g>
+                            <g id="Rectangle-2-Copy">
+                                <use fill="#E5004D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <rect stroke="#EA094B" stroke-width="1" x="0.5" y="0.5" width="20" height="20" rx="3"></rect>
+                            </g>
+                            <polygon id="Fill-1" fill="#FFFFFF" points="8.68535042 11.729838 5.01690406 7.87903906 3 9.99631469 7.84065902 15.0781302 8.73008455 16 18 6.15856115 15.943966 4"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
